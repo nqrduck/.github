@@ -1,3 +1,5 @@
+⚠️ NOTE: This README is currently a work in progress. ⚠️
+
 # NQRduck
 
 ## Introduction
