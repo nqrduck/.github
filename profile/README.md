@@ -43,7 +43,7 @@ This module is a template for the creation of new modules. It provides a basic s
 ## Other Projects
 
 ### [nqr-blochsimulator](https://github.com/nqrduck/nqr-blochsimulator)
-This repository contains the bloch simulator for the NQRduck project. It is based on the simulation of bloch equations using symmetric operator splitting by C. Graf [2].
+This repository contains the Bloch simulator for the NQRduck project. It is based on the simulation of Bloch equations using symmetric operator splitting by C. Graf [2].
 
 ### [LimeDriver](https://github.com/nqrduck/limedriver)
 The LimeDriver project is used to control the LimeSDR based spectrometer. It is used by the LimeNQR module. The original code for the control of the LimeSDR based spectrometer was part of the paper by A. Doll [1].
