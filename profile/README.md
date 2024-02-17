@@ -57,7 +57,7 @@ This repository contains the python bindings for the LimeDriver project. It is u
 This repository contains the hardware design and software for the automatic tuning and matching (ATM) unit. 
 
 
-### [LimenNQR](https:github.com/nqrduck/LimenNQR)
+### [LimeNQR](https:github.com/nqrduck/LimenNQR)
 This repository contains the hardware design for the LimeSDR based spectrometer. 
 
 
