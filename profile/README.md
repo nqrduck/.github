@@ -9,7 +9,7 @@ The focus for spectrometers currently lies on LimeSDR based spectrometers (LimeS
 ## Installation 
 Installation instructions can be found in the [nqrduck](https://github.com/nqrduck/nqrduck) repository. Different modules can be installed to your liking and depending on what functionality you need. 
 
-## NQRduck
+## [NQRduck](https://github.com/nqrduck/nqrduck)
 The nqrduck module is the core application. It loads all the installed modules in your python environment. It also provides a central interface for communication between modules. 
 
 ## Modules
