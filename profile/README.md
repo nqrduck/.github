@@ -2,7 +2,7 @@
  
 ![](images/Logo_full.png)
  
-This program is intended as a educational tool for magnetic resonance experiments (NMR, NQR, ...). It's focus lies on modular behaviour depending on what nqrduck modules are installed. The core of the program is the [nqrduck](https;//github.com/nqrduck/nqrduck) module. It provides a central interface for communication between the different modules. The nqrduck module loads all the installed modules in your python environment.
+This program is intended as a educational tool for magnetic resonance experiments (NMR, NQR, ...). It's focus lies on modular behavior depending on what nqrduck modules are installed. The core of the program is the [nqrduck](https;//github.com/nqrduck/nqrduck) module. It provides a central interface for communication between the different modules. The nqrduck module loads all the installed modules in your python environment.
 
 The focus for spectrometers currently lies on LimeSDR based spectrometers (LimeSDR USB, LimeSDR Mini 2.0).
 
@@ -83,13 +83,13 @@ Modules are generally licensed under the MIT License, and hardware projects are 
   - A RedPitaya based  spectrometer is planned to be supported in the future.
 
 - What future modules are planned? (I'm primarily writing down some ideas here)
-    - A module for managment of different samples (T1, T2 library ...). 
+    - A module for management of different samples (T1, T2 library ...). 
     - A module for magnet spoiling.
     - A module for temperature control of the experiments.
     - Future ideas are always welcome; please share them as issues in the main repository!
 
 - Is this also useful for research?
-  - Yes, especially the blochsimulation could be used for easy preparation of experiments because of the graphical interface for pulse sequence design. Additionally the open source nature of the project allows for easy integration of self-built hard- and software.
+  - Yes, especially the Bloch simulation could be used for easy preparation of experiments because of the graphical interface for pulse sequence design. Additionally the open source nature of the project allows for easy integration of self-built hard- and software.
 
 ## Notes
 This project originated as a Master's thesis at Graz University of Technology and has since evolved. The original thesis can be accessed [here (link to thesis)], but note that it might not reflect the current state of the project. Releases of the project that coincide with the thesis submission are tagged as "Masterproject" for reference.
