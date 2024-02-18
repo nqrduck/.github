@@ -1,15 +1,15 @@
  # NQRduck
  
-![](images/Logo_full.png)
+![](https://github.com/nqrduck/.github/blob/main/profile/images/Logo_full.png)
  
-This program is intended as a educational tool for magnetic resonance experiments (NMR, NQR, ...). It's focus lies on modular behavior depending on what nqrduck modules are installed. The core of the program is the [nqrduck](https;//github.com/nqrduck/nqrduck) module. It provides a central interface for communication between the different modules. The nqrduck module loads all the installed modules in your python environment.
+This program is intended as a educational tool for magnetic resonance experiments (NMR, NQR, ...). It's focus lies on modular behaviour depending on what nqrduck modules are installed. The core of the program is the [nqrduck](https;//github.com/nqrduck/nqrduck). It provides a central interface for communication between the different modules. The nqrduck core loads all the installed modules in your python environment.
 
 The focus for spectrometers currently lies on LimeSDR based spectrometers (LimeSDR USB, LimeSDR Mini 2.0).
 
 ## Installation 
 Installation instructions can be found in the [nqrduck](https://github.com/nqrduck/nqrduck) repository. Different modules can be installed to your liking and depending on what functionality you need. 
 
-## NQRduck
+## [NQRduck](https://github.com/nqrduck/nqrduck)
 The nqrduck module is the core application. It loads all the installed modules in your python environment. It also provides a central interface for communication between modules. 
 
 ## Modules
@@ -43,7 +43,7 @@ This module is a template for the creation of new modules. It provides a basic s
 ## Other Projects
 
 ### [nqr-blochsimulator](https://github.com/nqrduck/nqr-blochsimulator)
-This repository contains the bloch simulator for the NQRduck project. It is based on the simulation of bloch equations using symmetric operator splitting by C. Graf [2].
+This repository contains the Bloch simulator for the NQRduck project. It is based on the simulation of Bloch equations using symmetric operator splitting by C. Graf [2].
 
 ### [LimeDriver](https://github.com/nqrduck/limedriver)
 The LimeDriver project is used to control the LimeSDR based spectrometer. It is used by the LimeNQR module. The original code for the control of the LimeSDR based spectrometer was part of the paper by A. Doll [1].
@@ -57,7 +57,7 @@ This repository contains the python bindings for the LimeDriver project. It is u
 This repository contains the hardware design and software for the automatic tuning and matching (ATM) unit. 
 
 
-### [LimenNQR](https:github.com/nqrduck/LimenNQR)
+### [LimeNQR](https:github.com/nqrduck/LimenNQR)
 This repository contains the hardware design for the LimeSDR based spectrometer. 
 
 
