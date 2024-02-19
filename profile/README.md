@@ -21,7 +21,7 @@ The spectrometer module provides a unified interface for different modules to co
 The  LimeNQR module is a submodule of the [spectrometer module](https://github.com/nqrduck/nqrduck-spectrometer). It uses the LimeSDR based spectrometer. It provides a Graphical User Interface (GUI) for the control of the LimeSDR based spectrometer. The module uses the LimeDriver project for the control of the LimeSDR based spectrometer [1]. 
 
 ### [nqrduck-spectrometer-simulator](https://github.com/nqrduck/nqrduck-spectrometer-simulator)
-The Simulator module is used to simulate magnetic resonance experiments. It is based on the bloch simulator by C. Graf [2].
+The Simulator module is a submodule of the [spectrometer module](https://github.com/nqrduck/nqrduck-spectrometer).The Simulator module is used to simulate magnetic resonance experiments. It is based on the bloch simulator by C. Graf [2].
 
 ### [nqrduck-pulseprogrammer](https://github.com/nqrduck/nqrduck-pulseprogrammer)
 The pulseprogrammer module is used to create pulse sequences with a user interface for magnetic resonance  experiments.
