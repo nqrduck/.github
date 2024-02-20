@@ -92,7 +92,7 @@ Modules are generally licensed under the MIT License, and hardware projects are 
   - Yes, especially the Bloch simulation could be used for easy preparation of experiments because of the graphical interface for pulse sequence design. Additionally the open source nature of the project allows for easy integration of self-built hard- and software.
 
 ## Notes
-This project originated as a Master's thesis at Graz University of Technology and has since evolved. The original thesis can be accessed [here (link to thesis)], but note that it might not reflect the current state of the project. Releases of the project that coincide with the thesis submission are tagged as "Masterproject" for reference.
+This project originated as a Master's thesis at Graz University of Technology and has since evolved. The original thesis can be accessed [here](https://github.com/nqrduck/Thesis), but note that it might not reflect the current state of the project. Releases of the project that coincide with the thesis submission are tagged as "Masterproject" for reference.
 
 <!--
 
