@@ -91,6 +91,9 @@ Modules are generally licensed under the MIT License, and hardware projects are 
 - Is this also useful for research?
   - Yes, especially the Bloch simulation could be used for easy preparation of experiments because of the graphical interface for pulse sequence design. Additionally the open source nature of the project allows for easy integration of self-built hard- and software.
 
+- Wait - your Logo is  scientifically inaccurate!
+  - Yes, the atom depicted in the Logo is Helium-4, which has two protons and two neutrons.So the nuclear spin would be zero, which would mean you could neither do NMR nor NQR experiments with it. Probably also the representation of the orbitals is questionable. But it looks cool, doesn't it? 🦆
+
 ## Notes
 This project originated as a Master's thesis at Graz University of Technology and has since evolved. The original thesis can be accessed [here](https://github.com/nqrduck/Thesis), but note that it might not reflect the current state of the project. Releases of the project that coincide with the thesis submission are tagged as "Masterproject" for reference.
 
