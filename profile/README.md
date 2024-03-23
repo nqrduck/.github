@@ -33,7 +33,7 @@ The autotm module is used for automatic tuning and matching of the spectrometer.
 ### [nqrduck-measurement](https://github.com/nqrduck/nqrduck-measurement)
 The measurement module is used to perform single frequency measurements with the spectrometer. It also provides signal processing for the measurements.
 
-### [nqrduck-broadband](https://github.com/nqrduck/nqrduck-bradband)
+### [nqrduck-broadband](https://github.com/nqrduck/nqrduck-broadband)
 The broadband module is used to perform broadband measurements with the spectrometer.
 
 ### [nqrduck-module](https://github.com/nqrduck/nqrduck-module)
