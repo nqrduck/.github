@@ -69,6 +69,10 @@ This repository contains the hardware design for the LimeSDR based spectrometer.
 ## Contributing
 If you're interested in contributing to the project, start by checking out our [nqrduck-module template](https://github.com/nqrduck/nqrduck-module). To contribute to existing modules, please first open an issue in the respective module repository to discuss your ideas or report bugs.
 
+The Contribution guidelines can be found in the [nqrduck-module](https://github.com/nqrduck/nqrduck-module/CONTRIBUTING.md) repository.
+
+The  code of conduct can be found in the [nqrduck-module](https://github.com/nqrduck/nqrduck-module/CODE_OF_CONDUCT.md) repository.
+
 ## License
 Modules are generally licensed under the MIT License, and hardware projects are under the CERN Open Hardware License. For specifics, please refer to the license file in each individual repository.
 
