@@ -66,10 +66,6 @@ This repository contains the python bindings for the LimeDriver project. It is u
 
 This repository contains the hardware design and software for the automatic tuning and matching (ATM) unit.
 
-### [LimeNQR](https:github.com/nqrduck/LimenNQR)
-
-This repository contains the hardware design for the LimeSDR based spectrometer.
-
 ## References
 
 [1] [A. Doll; Pulsed and continuous-wave magnetic resonance spectroscopy using a low-cost software-defined radio. AIP Advances 1 November 2019; 9 (11): 115110. https://doi.org/10.1063/1.5127746](https://doi.org/10.1063/1.5127746)
