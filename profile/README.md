@@ -1,3 +1,5 @@
+This is a mirror. Development is done on [git.private.coffee/nqrduck](git.private.coffee/nqrduck).
+
 # NQRduck
 
 ![NQRduck Logo](https://github.com/nqrduck/.github/blob/main/profile/images/Logo_full.png)
